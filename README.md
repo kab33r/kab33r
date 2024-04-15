@@ -1,16 +1,27 @@
-### Hi there 👋
+# Kabeer Saxena
 
-<!--
-**kab33r/kab33r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cybersecurity Researcher | Penetration Testing Specialist | Bug Bounty Hunter
 
-Here are some ideas to get you started:
+Hello! I’m Kabeer, a dynamic and results-driven Cybersecurity Researcher with extensive experience in VAPT, cloud security, and bug bounty hunting. Currently enhancing cloud defenses at Palo Alto Networks, I've contributed to strengthening digital security at major corporations by identifying and closing over 250 security gaps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 **What I Do:**
+- **Cloud Security Research:** Crafting advanced security strategies for cloud environments (AWS, GCP, Azure). I've successfully designed and executed sophisticated attack simulations, identified critical vulnerabilities, and developed robust cloud security policies.
+- **Bug Bounty Hunting:** With notable acknowledgements from governments and major corporations worldwide, I specialize in finding and mitigating vulnerabilities across web, API, and network platforms.
+- **Automation for Security:** I develop scripts and tools to automate and streamline security testing and vulnerability management, making the process more efficient for fellow security professionals.
+
+🌐 **Contributions:**
+- **Blogs & Guides:** I author blogs and guides to share knowledge on the latest in cybersecurity threats and defenses, particularly focusing on cloud security. My work serves as benchmark pieces within the cybersecurity community.
+- **Open Source Projects:** I actively contribute to open source projects by providing automation scripts that assist bug bounty hunters and cybersecurity experts in their endeavors.
+
+🛠️ **Tools & Technologies:**
+- **Penetration Testing and VAPT Tools:** Burp Suite, Nessus, Nmap, Acunetix Scanner
+- **Programming and Scripting:** Bash scripting, AI Prompt Engineering for cybersecurity applications
+- **Platforms:** Linux, GitLab, Jira
+
+📚 **Learning & Sharing:**
+- My GitHub is a repository of my ongoing work in automating bug bounty and cybersecurity processes. Here, you'll find scripts, documentation, and tips and tricks to enhance your security hunting techniques.
+
+---
+
+Feel free to explore my repositories and connect with me on [LinkedIn](linkedin.com/in/kabeersaxena) for collaborations or discussions on the ever-evolving landscape of cybersecurity.
+
