@@ -2,7 +2,7 @@
 
 ## Cybersecurity Researcher | Penetration Testing Specialist | Bug Bounty Hunter
 
-Hello! I’m Kabeer, a dynamic and results-driven Cybersecurity Researcher with extensive experience in VAPT, cloud security, and bug bounty hunting. Currently enhancing cloud defenses at Palo Alto Networks, I've contributed to strengthening digital security at major corporations by identifying and closing over 250 security gaps.
+Hello! I’m Kabeer, a dynamic and results-driven Cybersecurity Researcher with extensive experience in VAPT, cloud security, and bug bounty hunting. Currently enhancing cloud defenses at Palo Alto Networks, I've contributed to strengthening digital security at major corporations by identifying and closing over 300 security gaps.
 
 🔍 **What I Do:**
 - **Cloud Security Research:** Crafting advanced security strategies for cloud environments (AWS, GCP, Azure). I've successfully designed and executed sophisticated attack simulations, identified critical vulnerabilities, and developed robust cloud security policies.
@@ -13,12 +13,8 @@ Hello! I’m Kabeer, a dynamic and results-driven Cybersecurity Researcher with 
 - **Blogs & Guides:** I author blogs and guides to share knowledge on the latest in cybersecurity threats and defenses, particularly focusing on cloud security. My work serves as benchmark pieces within the cybersecurity community.
 - **Open Source Projects:** I actively contribute to open source projects by providing automation scripts that assist bug bounty hunters and cybersecurity experts in their endeavors.
 
-🛠️ **Tools & Technologies:**
-- **Penetration Testing and VAPT Tools:** Burp Suite, Nessus, Nmap, Acunetix Scanner
-- **Programming and Scripting:** Bash scripting, AI Prompt Engineering for cybersecurity applications
-- **Platforms:** Linux, GitLab, Jira
 
-📚 **Learning & Sharing:**
+📚 **Why I'm here:**
 - My GitHub is a repository of my ongoing work in automating bug bounty and cybersecurity processes. Here, you'll find scripts, documentation, and tips and tricks to enhance your security hunting techniques.
 
 ---
